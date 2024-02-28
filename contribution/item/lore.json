@@ -18,6 +18,23 @@
 			"In most cases, handcrafted gear will most likely destroy its owner while trying to be as functional as possible. Do hope that this ${itemType} gear doesn't come with flatline bills.",
 			"Weathered and beaten, this ${itemName} has seen better days.  Unfortunately, better days are relative.  It was shoddily made, to begin with as well.",
 			"The design of ${itemName} leaves one guessing if the creator of ${itemName} had a plan for it or if ${itemName} was a total mistake"
+	"CALIDADES"
+
+		"BASURA":
+			"Un ${itemName} roto y maltratado apenas se mantiene unido con pegamento débil y tiras de cinta adhesiva. Fiel a su designación ${tierName}, apenas funciona como un ${itemType}.",
+			"Solía ​​ser la tecnología punta de su tiempo, con costos de fabricación en masa muy bajos ${itemName} su reputación y calidad. Nada más que ${tierName} de su destino.",
+			"Nada más que un artefacto abandonado. Aunque, 'artefacto' parece implicar cierto grado de importancia. Podría ser menos un artefacto que solo detritos. Por otra parte, estos ${itemType} eran tan 'funcionales' como necesitaban ser.",
+			"Es una maravilla que este ${itemType} aún tenga la mayoría de sus piezas.",
+			"Cualquiera que sea el contenedor de basura del que vino este ${itemType} casi seguramente contenía comida en mal estado que valdría más que el propio ${itemName}.",
+			"Uno podría examinar ${itemName} con la esperanza de encontrar algo valioso. Lamentablemente, habrían perdido su valioso tiempo.",
+			"El fabricante retiró este ${itemType} por defectos conocidos. Podría ser mucho más útil como material de desecho.",
+			"Las asperezas hacen que un ${itemType} pierda su valor exponencialmente, hasta el punto de que llamar su 'nombre' hace que un comerciante ignore su existencia.",
+			"Tener una marca tan notable no significa que un equipo ${itemType} como este estará a la altura de su nombre. Está a la altura de su nivel ${tierName}.",
+			"Si el tiempo es oro, los pocos segundos que te lleva leer esto valen mucho más que los ${itemName} que ves delante de ti.",
+			"En la mayoría de los casos, el equipo hecho a mano probablemente destruirá a su propietario mientras intenta ser lo más funcional posible. Espero que este equipo ${itemType} no venga con billetes planos.",
+			"Desgastado y golpeado, este ${itemName} ha tenido mejores días. Desafortunadamente, los mejores días son relativos. Para empezar, también fue hecho de mala calidad.",
+			"El diseño de ${itemName} deja a uno con la duda de si el creador de ${itemName} tenía un plan para ello o si ${itemName} fue un error total"
+			
 		],
 		"COMMON": [
 			"One of the many millions of similar pieces of gear churned out by Militech annually, this ${itemName} is nothing special, but at least it doesn't explode in your face.",
